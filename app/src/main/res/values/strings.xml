@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HabitManagement</string>
+    <string name="btn_add">追加</string>
+    <string name="btn_delete">削除</string>
+    <string name="btn_detail">詳細</string>
+
+
+    <string name="dialog_add">追加</string>
+    <string name="dialog_cancel">キャンセル</string>
+    <string name="dialog_add_message">追加したい習慣を入力してください。</string>
+
+</resources>
